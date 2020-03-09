@@ -1,0 +1,19 @@
+h1 {
+ color:white;
+ background-color: black;
+ font-family: 'Lemonada', cursive;
+}
+
+.smaller-image {
+    height: 300px;
+    width: 20%;
+    margin-left: 35em;
+}
+
+ol {
+    background-color: bisque;
+}
+
+body {
+    background-image: url(Eagle-Ent-Logo_White.png);
+}
