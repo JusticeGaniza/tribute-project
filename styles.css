@@ -1,21 +1,27 @@
 h1 {
  color:white;
- background-color: black;
+ background-color: #484f4f;
  font-family: 'Lemonada', cursive;
+}
+
+h2 {
+    background-color: #8ca3a3;
 }
 
 .smaller-image {
     height: 300px;
     width: 20%;
-    margin-left: 35em;
+    margin-left: 33em;
 }
 
 ol {
-    background-color: bisque;
+    background-color: #c8c3cc;
 }
 
 body {
     
-    background-color: black;
+    background-color: #563f46;
     background-image: url(Eagle-Ent-Logo_White.png);
+    background-size: cover;
+    background-position: center;
 }
